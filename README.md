@@ -1,3 +1,6 @@
+![logo](https://github.com/user-attachments/assets/e109a9c6-28ad-495a-ac35-546a7989f848)
+
+
 # InventaBill - Billing & Inventory Management System
 
 InventaBill is a desktop application designed for small businesses and retail shops to manage inventory and generate GST-compliant invoices with ease.
